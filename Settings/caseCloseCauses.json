@@ -1,0 +1,170 @@
+[
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/28",
+        "id": 28,
+        "rootCause": "stage1pclosecase",
+        "closeReason": "Malicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/27",
+        "id": 27,
+        "rootCause": "No clear conclusion",
+        "closeReason": "Inconclusive"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/26",
+        "id": 26,
+        "rootCause": "Other",
+        "closeReason": "Maintenance"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/25",
+        "id": 25,
+        "rootCause": "Lab test",
+        "closeReason": "Maintenance"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/24",
+        "id": 24,
+        "rootCause": "Rule under construction",
+        "closeReason": "Maintenance"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/23",
+        "id": 23,
+        "rootCause": "Rule under construction",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/22",
+        "id": 22,
+        "rootCause": "Penetration test",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/21",
+        "id": 21,
+        "rootCause": "Lab test",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/20",
+        "id": 20,
+        "rootCause": "Normal behavior",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/19",
+        "id": 19,
+        "rootCause": "User mistake",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/18",
+        "id": 18,
+        "rootCause": "Other",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/17",
+        "id": 17,
+        "rootCause": "Employee error",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/16",
+        "id": 16,
+        "rootCause": "Human error",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/15",
+        "id": 15,
+        "rootCause": "Misconfigured system",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/14",
+        "id": 14,
+        "rootCause": "Unknown",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/13",
+        "id": 13,
+        "rootCause": "None",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/12",
+        "id": 12,
+        "rootCause": "Legit action",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/11",
+        "id": 11,
+        "rootCause": "Similar case is already under investigation",
+        "closeReason": "NotMalicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/10",
+        "id": 10,
+        "rootCause": "Other",
+        "closeReason": "Malicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/9",
+        "id": 9,
+        "rootCause": "Unknown",
+        "closeReason": "Malicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/8",
+        "id": 8,
+        "rootCause": "Similar case is already under investigation",
+        "closeReason": "Malicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/7",
+        "id": 7,
+        "rootCause": "Misconfigured system",
+        "closeReason": "Malicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/6",
+        "id": 6,
+        "rootCause": "Infrastructure issue",
+        "closeReason": "Malicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/5",
+        "id": 5,
+        "rootCause": "System blocked the attack",
+        "closeReason": "Malicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/4",
+        "id": 4,
+        "rootCause": "Irrelevant TCP/UDP port",
+        "closeReason": "Malicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/3",
+        "id": 3,
+        "rootCause": "Unforeseen effects of change",
+        "closeReason": "Malicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/2",
+        "id": 2,
+        "rootCause": "System/application malfunction",
+        "closeReason": "Malicious"
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseCloseDefinitions/1",
+        "id": 1,
+        "rootCause": "External attack",
+        "closeReason": "Malicious"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "alias": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/soarDomains/1",
+        "id": 1,
+        "domain": "stage1pdomain",
+        "environments": "[\"Default Environment\"]",
+        "creationTimeUnixTimeInMs": 0,
+        "modificationTimeUnixTimeInMs": 0
+    }
+]

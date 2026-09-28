@@ -1,0 +1,11 @@
+[
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/emailTemplates/1",
+        "templateType": "Template",
+        "author": "f4ac9d14-d3ea-4524-9cff-4730c63c6c49",
+        "id": 1,
+        "content": "stage1pemailtemplate",
+        "displayName": "stage1pemailtemplate",
+        "environments": "[\"Default Environment\"]"
+    }
+]

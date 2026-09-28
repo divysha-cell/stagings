@@ -1,0 +1,10 @@
+[
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/entitiesBlocklists/1",
+        "id": 1,
+        "entityIdentifier": "stage1pBlocklist",
+        "entityType": "*",
+        "action": "DoNotGroupAlerts",
+        "environmentsJson": "[\"Default Environment\"]"
+    }
+]

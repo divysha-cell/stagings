@@ -1,0 +1,46 @@
+[
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/environments/3",
+        "id": 0,
+        "system": false,
+        "displayName": "stage1penvironment",
+        "description": "stage1penvironment",
+        "contact": "stage1penvironment",
+        "contactEmails": "stage1penvironment@test.com",
+        "contactPhone": "1234567890",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Qwerty",
+                "dynamicParameterId": 1,
+                "environmentId": 3
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/environments/1",
+        "id": 0,
+        "system": true,
+        "displayName": "Default Environment",
+        "description": "Default Environment",
+        "contact": "N/A",
+        "contactEmails": "example@example.com",
+        "contactPhone": "0000000000",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Qwerty",
+                "dynamicParameterId": 1,
+                "environmentId": 1
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    }
+]

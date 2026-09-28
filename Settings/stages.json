@@ -1,0 +1,44 @@
+[
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseStageDefinitions/7",
+        "id": 7,
+        "displayName": "stage1pstage",
+        "order": 7
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseStageDefinitions/6",
+        "id": 6,
+        "displayName": "Research",
+        "order": 6
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseStageDefinitions/5",
+        "id": 5,
+        "displayName": "Improvement",
+        "order": 5
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseStageDefinitions/4",
+        "id": 4,
+        "displayName": "Incident",
+        "order": 4
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseStageDefinitions/3",
+        "id": 3,
+        "displayName": "Investigation",
+        "order": 3
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseStageDefinitions/2",
+        "id": 2,
+        "displayName": "Assessment",
+        "order": 2
+    },
+    {
+        "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/caseStageDefinitions/1",
+        "id": 1,
+        "displayName": "Triage",
+        "order": 1
+    }
+]

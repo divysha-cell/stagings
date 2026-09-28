@@ -1,0 +1,15 @@
+{
+    "system_version": "6.999.9999.3413",
+    "readme_addons": {
+        "Integration": {},
+        "Mappings": {},
+        "Visual Family": {},
+        "Playbook": {},
+        "Connector": {},
+        "Job": {},
+        "Block": {}
+    },
+    "settings": {
+        "update_root_readme": true
+    }
+}
