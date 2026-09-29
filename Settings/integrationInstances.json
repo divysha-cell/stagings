@@ -1,6 +1,42 @@
 [
     {
         "environment": "Default Environment",
+        "integrationIdentifier": "VirusTotalV3",
+        "settings": {
+            "instanceDescription": "",
+            "instanceName": "System Default Instance",
+            "settings": [
+                {
+                    "propertyName": "API Key",
+                    "value": "***************",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Password",
+                    "isMandatory": true,
+                    "id": 179,
+                    "propertyDisplayName": "API Key",
+                    "propertyDescription": "",
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "01a0ed47-ba80-70dd-b980-db96db988531"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Boolean",
+                    "isMandatory": false,
+                    "id": 180,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": "",
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "01a0ed47-ba80-70dd-b980-db96db988531"
+                }
+            ]
+        }
+    },
+    {
+        "environment": "Default Environment",
         "integrationIdentifier": "MicrosoftGraphMail",
         "settings": {
             "instanceDescription": "",
@@ -285,6 +321,42 @@
                     "propertyDescription": "",
                     "integrationIdentifier": "PaloAltoCortexXDR",
                     "integrationInstance": "01a0d2a3-1d51-77f3-9ef0-fac539aefc47"
+                }
+            ]
+        }
+    },
+    {
+        "environment": "*",
+        "integrationIdentifier": "VirusTotalV3",
+        "settings": {
+            "instanceDescription": "",
+            "instanceName": "VirusTotalV3_1",
+            "settings": [
+                {
+                    "propertyName": "API Key",
+                    "value": "***************",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Password",
+                    "isMandatory": true,
+                    "id": 183,
+                    "propertyDisplayName": "API Key",
+                    "propertyDescription": "",
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "01a0ed48-846d-7467-9f83-a7b890a91001"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": "Boolean",
+                    "isMandatory": false,
+                    "id": 184,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": "",
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "01a0ed48-846d-7467-9f83-a7b890a91001"
                 }
             ]
         }
