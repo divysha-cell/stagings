@@ -175,6 +175,9 @@
     "description": "Pull information about Rule based alerts from Google Chronicle. Note: dynamic list is used for filtering purposes. For all of the details please visit the documentation portal.",
     "intervalSeconds": 10,
     "version": 1,
+    "allowList": [
+        "fthf"
+    ],
     "productFieldName": "alert_type",
     "eventFieldName": "event_type",
     "timeoutSeconds": 180,
