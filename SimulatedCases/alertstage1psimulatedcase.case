@@ -8,15 +8,15 @@
                         "baseEventIds": [],
                         "parentEventId": 0,
                         "deviceEventClassId": "rulestage1psimulatedcase",
-                        "startTime": "1790325120133",
-                        "endTime": "1790325120133",
+                        "startTime": "1790847749774",
+                        "endTime": "1790847749774",
                         "deviceProduct": "alertstage1psimulatedcase"
                     },
                     "_rawDataFields": {
                         "a": "a",
-                        "deviceEventClassId": "eventstage1psimulatedcase",
                         "deviceProduct": "alertstage1psimulatedcase",
-                        "name": "eventstage1psimulatedcase"
+                        "name": "eventstage1psimulatedcase",
+                        "deviceEventClassId": "eventstage1psimulatedcase"
                     },
                     "environment": null,
                     "sourceSystemName": null,
@@ -24,7 +24,7 @@
                 }
             ],
             "environment": null,
-            "sourceSystemName": "stage1psimulatedcase",
+            "sourceSystemName": "updatedstage1psimulatedcase",
             "ticketId": null,
             "description": null,
             "displayId": null,
@@ -32,8 +32,8 @@
             "name": "alertstage1psimulatedcase",
             "deviceVendor": "alertstage1psimulatedcase",
             "deviceProduct": "alertstage1psimulatedcase",
-            "startTime": 1790325120133,
-            "endTime": 1790325120133,
+            "startTime": 1790847749774,
+            "endTime": 1790847749774,
             "type": 0,
             "priority": -1,
             "ruleGenerator": "rulestage1psimulatedcase",
