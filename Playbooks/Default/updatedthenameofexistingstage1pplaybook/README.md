@@ -1,0 +1,45 @@
+# updatedthenameofexistingstage1pplaybook
+
+
+
+
+**Enabled:** False
+
+**Version:** 1
+
+**Type:** Playbook
+
+**Priority:** 2
+
+**Playbook Simulator:** False
+
+
+
+### Playbook Trigger
+**Trigger Type:** All
+
+**Conditions Operator:** And
+
+##### Conditions
+|Key|Operator|Value|
+|---|--------|-----|
+|None|Equals|None|
+
+
+
+### Involved Steps (Unordered)
+|Step Name|Description|Integration|Original Action|
+|---------|-----------|-----------|---------------|
+|CrowdStrikeFalcon_Submit File_1|Submit files to a sandbox in Crowdstrike. Note: This action requires a Falcon Sandbox license. For the list of supported file formats, refer to the documentation portal.|CrowdStrikeFalcon|Submit File|
+|Siemplify_Case Comment_2|Add a comment to the case the current alert has been grouped to|Siemplify|Case Comment|
+|Siemplify_Case Tag_1|Add given tag to the case the current alert is grouped to|Siemplify|Case Tag|
+|MicrosoftGraphMail_Ping_1|Test Connectivity|MicrosoftGraphMail|Ping|
+|GitSync_Ping_1|Test connectivity to GitSync|GitSync|Ping|
+|Siemplify_Case Comment_3|Add a comment to the case the current alert has been grouped to|Siemplify|Case Comment|
+|Siemplify_Case Comment_updatedName|Add a comment to the case the current alert has been grouped toAdded manually|Siemplify|Case Comment|
+|Siemplify_Case Tag_2|Add given tag to the case the current alert is grouped to|Siemplify|Case Tag|
+
+### Involved Blocks
+|Name|Description|
+|----|-----------|
+|stage1pblock|An embedded workflow that can receive inputs and return an output.|
