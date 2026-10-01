@@ -23,6 +23,7 @@
 |----|-----------|
 |stage1pblock|An embedded workflow that can receive inputs and return an output.|
 |stage1pplaybook||
+|updatedthenameofexistingstage1pplaybook||
 
 
 ## Visual Families
