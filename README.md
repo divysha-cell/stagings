@@ -15,6 +15,7 @@
 ## Connectors
 |Name|Description|Has Mappings|
 |----|-----------|------------|
+|Enabledupdatingthenameanddescriptionstage1pconnector|updatingthenameanddescriptionstage1pconnector|True|
 |stage1pconnector|Pull information about Rule based alerts from Google Chronicle. Note: dynamic list is used for filtering purposes. For all of the details please visit the documentation portal.|True|
 
 

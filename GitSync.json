@@ -5,7 +5,9 @@
         "Mappings": {},
         "Visual Family": {},
         "Playbook": {},
-        "Connector": {},
+        "Connector": {
+            "Enabledupdatingthenameanddescriptionstage1pconnector": "thisislatestaddonEnabledupdatingthenameanddescriptionstage1pconnector"
+        },
         "Job": {},
         "Block": {}
     },
