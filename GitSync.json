@@ -2,7 +2,9 @@
     "system_version": "6.999.9999.3413",
     "readme_addons": {
         "Integration": {},
-        "Mappings": {},
+        "Mappings": {
+            "CrowdStrikeFalcon": "tis is the latest one"
+        },
         "Visual Family": {},
         "Playbook": {},
         "Connector": {
