@@ -18,7 +18,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "6c07cdad-0875-42a9-89e8-bdb9baf779f9",
     "creationTimeUnixTimeInMs": 1790242226058,
-    "modificationTimeUnixTimeInMs": 1790846440911,
+    "modificationTimeUnixTimeInMs": 1791191299966,
     "trigger": {
         "id": 0,
         "identifier": "3c1f15fd-9637-4e35-b28d-e63ca0d069f9",
@@ -197,7 +197,7 @@
                 },
                 {
                     "name": "ScriptParametersEntityFields",
-                    "value": "{\"File Paths\":\"/tmp/abc\",\"Sandbox Environment\":\"Windows 10, 64-bit\",\"Network Environment\":\"Default\",\"Archive Password\":\"5+acZAPtSOml6pvVQbOb2A==.2mKP6g7/YlHuKniBlkA9mA==\",\"Document Password\":\"Pw7lUmDomd4493V/KbHJUg==.HrdHU/KbfA9fvJkOglOnuQ==\",\"Check Duplicate\":true,\"Comment\":\"\",\"Confidential Submission\":false}",
+                    "value": "{\"File Paths\":\"/tmp/abc\",\"Sandbox Environment\":\"Windows 10, 64-bit\",\"Network Environment\":\"Default\",\"Archive Password\":\"RmGMirFcOCuhB9KjyuDBMg==.XadCHYgCeaYsT/6ZhrQoeg==\",\"Document Password\":\"0q6i0O3yewHD05IhY7LSYg==.O7gQ8aiOGrlauhM3jqn9YQ==\",\"Check Duplicate\":true,\"Comment\":\"\",\"Confidential Submission\":false}",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -238,8 +238,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1790846440624,
-            "modificationTimeUnixTimeInMs": 1790846440911,
+            "creationTimeUnixTimeInMs": 1791191299731,
+            "modificationTimeUnixTimeInMs": 1791191299966,
             "additionalProperties": {}
         },
         {
@@ -420,8 +420,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1790846440624,
-            "modificationTimeUnixTimeInMs": 1790846440911,
+            "creationTimeUnixTimeInMs": 1791191299731,
+            "modificationTimeUnixTimeInMs": 1791191299966,
             "additionalProperties": {}
         },
         {
@@ -561,7 +561,7 @@
                 },
                 {
                     "name": "ScriptParametersEntityFields",
-                    "value": "{\"Tag\":\"test tag\",\"Delimiter\":\"test\"}",
+                    "value": "{\"Tag\":\"test tags\",\"Delimiter\":\"test\"}",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -602,8 +602,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1790846440624,
-            "modificationTimeUnixTimeInMs": 1790846440911,
+            "creationTimeUnixTimeInMs": 1791191299731,
+            "modificationTimeUnixTimeInMs": 1791191299966,
             "additionalProperties": {}
         },
         {
@@ -765,7 +765,7 @@
                 },
                 {
                     "name": "UseEntitiesLoopScope",
-                    "value": "true",
+                    "value": null,
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -784,8 +784,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1790846440624,
-            "modificationTimeUnixTimeInMs": 1790846440911,
+            "creationTimeUnixTimeInMs": 1791191299731,
+            "modificationTimeUnixTimeInMs": 1791191299966,
             "additionalProperties": {}
         },
         {
@@ -966,8 +966,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1790846440624,
-            "modificationTimeUnixTimeInMs": 1790846440911,
+            "creationTimeUnixTimeInMs": 1791191299731,
+            "modificationTimeUnixTimeInMs": 1791191299966,
             "additionalProperties": {}
         },
         {
@@ -1093,8 +1093,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1790846440624,
-            "modificationTimeUnixTimeInMs": 1790846440911,
+            "creationTimeUnixTimeInMs": 1791191299731,
+            "modificationTimeUnixTimeInMs": 1791191299966,
             "additionalProperties": {}
         },
         {
@@ -1124,7 +1124,7 @@
                 },
                 {
                     "name": "Branches",
-                    "value": "[{\"LogicalOperator\":0,\"Conditions\":[],\"Order\":1,\"IsDefaultBranch\":false,\"Name\":\"Branch\"},{\"LogicalOperator\":0,\"Conditions\":[],\"Order\":2,\"IsDefaultBranch\":true,\"Name\":\"Branch\"}]",
+                    "value": "[{\"LogicalOperator\":0,\"Conditions\":[{\"Operator\":0,\"FieldName\":\"1\",\"Type\":7,\"Value\":\"1\",\"CustomOperatorName\":\"Core Functions.Equal\"}],\"Order\":1,\"IsDefaultBranch\":false,\"Name\":\"Branch\"},{\"LogicalOperator\":0,\"Conditions\":[],\"Order\":2,\"IsDefaultBranch\":true,\"Name\":\"Branch\"}]",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -1220,8 +1220,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1790846440624,
-            "modificationTimeUnixTimeInMs": 1790846440911,
+            "creationTimeUnixTimeInMs": 1791191299731,
+            "modificationTimeUnixTimeInMs": 1791191299966,
             "additionalProperties": {}
         },
         {
@@ -1402,8 +1402,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1790846440624,
-            "modificationTimeUnixTimeInMs": 1790846440911,
+            "creationTimeUnixTimeInMs": 1791191299731,
+            "modificationTimeUnixTimeInMs": 1791191299966,
             "additionalProperties": {}
         },
         {
@@ -1540,8 +1540,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1790846440624,
-            "modificationTimeUnixTimeInMs": 1790846440911,
+            "creationTimeUnixTimeInMs": 1791191299731,
+            "modificationTimeUnixTimeInMs": 1791191299966,
             "additionalProperties": {}
         },
         {
@@ -1722,8 +1722,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1790846440624,
-            "modificationTimeUnixTimeInMs": 1790846440911,
+            "creationTimeUnixTimeInMs": 1791191299731,
+            "modificationTimeUnixTimeInMs": 1791191299966,
             "additionalProperties": {}
         },
         {
@@ -1904,8 +1904,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1790846440624,
-            "modificationTimeUnixTimeInMs": 1790846440911,
+            "creationTimeUnixTimeInMs": 1791191299731,
+            "modificationTimeUnixTimeInMs": 1791191299966,
             "additionalProperties": {}
         }
     ],
