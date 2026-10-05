@@ -17578,6 +17578,23 @@
             {
                 "ontologyConfigurationLevel": "EventName",
                 "targetFieldType": "Entity",
+                "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/mappingRules/530",
+                "id": 530,
+                "securityEventFieldName": "SourceUserName",
+                "transformationFunction": "ToIpAddress",
+                "rawDataPrimaryFieldMatchTerm": "entity_entity_user_userid",
+                "rawDataPrimaryFieldComparisonType": "Equal",
+                "rawDataSecondaryFieldMatchTerm": "entity_entity_user_userid",
+                "rawDataSecondaryFieldComparisonType": "Equal",
+                "rawDataThirdFieldMatchTerm": "entity_entity_user_userid",
+                "rawDataThirdFieldComparisonType": "Equal",
+                "enrichmentFields": [],
+                "extractionFunctionParam": "",
+                "extractionFunction": "None"
+            },
+            {
+                "ontologyConfigurationLevel": "EventName",
+                "targetFieldType": "Entity",
                 "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/mappingRules/312",
                 "id": 312,
                 "securityEventFieldName": "SourceHostName",
@@ -17595,6 +17612,23 @@
             }
         ],
         "items": [
+            {
+                "ontologyConfigurationLevel": "EventName",
+                "targetFieldType": "Entity",
+                "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/mappingRules/530",
+                "id": 530,
+                "securityEventFieldName": "SourceUserName",
+                "transformationFunction": "ToIpAddress",
+                "rawDataPrimaryFieldMatchTerm": "entity_entity_user_userid",
+                "rawDataPrimaryFieldComparisonType": "Equal",
+                "rawDataSecondaryFieldMatchTerm": "entity_entity_user_userid",
+                "rawDataSecondaryFieldComparisonType": "Equal",
+                "rawDataThirdFieldMatchTerm": "entity_entity_user_userid",
+                "rawDataThirdFieldComparisonType": "Equal",
+                "enrichmentFields": [],
+                "extractionFunctionParam": "",
+                "extractionFunction": "None"
+            },
             {
                 "ontologyConfigurationLevel": "EventName",
                 "targetFieldType": "Entity",
@@ -17618,6 +17652,23 @@
             {
                 "ontologyConfigurationLevel": "EventName",
                 "targetFieldType": "Entity",
+                "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/mappingRules/530",
+                "id": 530,
+                "securityEventFieldName": "SourceUserName",
+                "transformationFunction": "ToIpAddress",
+                "rawDataPrimaryFieldMatchTerm": "entity_entity_user_userid",
+                "rawDataPrimaryFieldComparisonType": "Equal",
+                "rawDataSecondaryFieldMatchTerm": "entity_entity_user_userid",
+                "rawDataSecondaryFieldComparisonType": "Equal",
+                "rawDataThirdFieldMatchTerm": "entity_entity_user_userid",
+                "rawDataThirdFieldComparisonType": "Equal",
+                "enrichmentFields": [],
+                "extractionFunctionParam": "",
+                "extractionFunction": "None"
+            },
+            {
+                "ontologyConfigurationLevel": "EventName",
+                "targetFieldType": "Entity",
                 "name": "projects/spsstg-j2nis/locations/us/instances/fa12d79f-1170-4476-8f19-7939caa290d1/mappingRules/312",
                 "id": 312,
                 "securityEventFieldName": "SourceHostName",
@@ -17634,7 +17685,7 @@
                 "extractionFunction": "None"
             }
         ],
-        "totalSize": 1,
+        "totalSize": 2,
         "id": 0
     },
     {
