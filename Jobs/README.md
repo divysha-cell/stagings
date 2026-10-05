@@ -31,8 +31,25 @@ This job will synchronize information about Chronicle SOAR Cases and Chronicle S
 |Max Hours Backwards|String|False|24|
 |Verify SSL|Boolean|False|true|
 
+## Googleupdated
+This job will synchronize information about Chronicle SOAR Cases and Chronicle SOAR Alerts with Chronicle SIEM.
+ Note: This job is only supported from Chronicle SOAR version 6.1.44 and higher.
+
+
+**Run Interval In Seconds:** 3600
+
+#### Parameters
+|Name|Type|Is Mandatory|Value|
+|----|----|------------|-----|
+|Environment|String|True|Default Environment|
+|API Root|String|True|https://backstory.googleapis.com|
+|User's Service Account|Password|False|*****|
+|Workload Identity Email|Password|False|*****|
+|Max Hours Backwards|String|False|24|
+|Verify SSL|Boolean|False|true|
+
 ## Sync Alerts
-This job will synchronize Google SecOps Alerts and Crowdstrike alerts. The job synchronizes comments and status. Requires “Crowdstrike Alert” tag on the case. Note: If the alert didn’t originate from “Alerts Connector” or “Identity Protections Detection Connector” you will need to add an “Alert_ID” context value for the job to be able to find the correct information.
+cC the alert didn’t originate from “Alerts Connector” or “Identity Protections Detection Connector” you will need to add an “Alert_ID” context value for the job to be able to find the correct information.
 
 
 **Run Interval In Seconds:** 3600
