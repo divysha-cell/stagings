@@ -12,7 +12,7 @@
     "uniqueIdentifier": "17fc6722-5f2e-4217-abea-823857a244ee",
     "enabled": false,
     "displayName": "Sync Alerts",
-    "description": "This job will synchronize Google SecOps Alerts and Crowdstrike alerts. The job synchronizes comments and status. Requires \u201cCrowdstrike Alert\u201d tag on the case. Note: If the alert didn\u2019t originate from \u201cAlerts Connector\u201d or \u201cIdentity Protections Detection Connector\u201d you will need to add an \u201cAlert_ID\u201d context value for the job to be able to find the correct information.",
+    "description": "cC the alert didn\u2019t originate from \u201cAlerts Connector\u201d or \u201cIdentity Protections Detection Connector\u201d you will need to add an \u201cAlert_ID\u201d context value for the job to be able to find the correct information.",
     "intervalSeconds": 3600,
     "advanced": false,
     "advancedConfig": {
